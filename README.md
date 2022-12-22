@@ -1,7 +1,7 @@
 # Pair-Trading
 
 ## Files
-1. pair_trading.ipynb: Do pair-trading with jupyter notebook
+1. pair_trading.ipynb: Do pair-trading with jupyter notebook   
 ~2. examples.md~
 
 ## pair_trading.ipynb
